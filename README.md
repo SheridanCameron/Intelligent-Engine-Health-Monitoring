@@ -10,3 +10,5 @@ To ensure the results are trustworthy, the AI is tested on data it had never enc
 Proposed Solution (Random Forest): 97.04% Accuracy
 Baseline (k-NN): 96.39% Accuracy
 Baseline (Decision Tree): 96.46% Accuracy
+
+To run the program, copy and paste the code into any Python environment. Next, download the .txt file, and in the DATA LOADING section of the code, update the read function so it loads the .txt file from its correct folder location.
